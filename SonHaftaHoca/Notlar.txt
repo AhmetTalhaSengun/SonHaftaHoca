@@ -1,0 +1,24 @@
+﻿Pratik Olmalısın!!
+
+Problemlerle karşılaştığında önce düşünmelisin ben bunu nasıl çözerim. (Sistem Analizi)!
+Öncelikleri belirlemek.
+Zihninde kodu yaz. Ona göre yolu belirle.
+Koda başlamadan önce kendine 4 5 dk ver bu zaman kaybı değildir.
+Biz buna benzer bir şey yazdık mı?
+
+Ne kadar kod o kadar risk.
+
+Yöneticinizle konuşurken en az 2 çözümle gidin.
+Mesele kod yazmak değil. Öyle bir kod yazacaksın ki uzun vaadede sorun teşkil etmeyecek. 
+9 la has data da problem çıkarıyor.
+Eğer jsonda problem yaşadıysan gider on model configur a yazarım.
+
+
+jsonda yada programcs te bir hata alırsanız sunucuda hata alırsınız program hiç .alışmaz.
+Configurationlara dikkat ediliyor.
+
+Repostory ve abstractlar hariç olana kadardan sonra add-migration yapıldı. 
+
+
+Öncelik
+1. in the visual accounts. idler int istenmiyorsa ve üye yoksa.
