@@ -1,9 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System.ComponentModel.DataAnnotations.Schema;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
-namespace SonHaftaHoca.Models
+namespace SonHaftaHoca.ViewModels
 {
-    public class Eylem
+    public class EylemVM
     {
         public int EylemId { get; set; }
 
@@ -19,10 +18,6 @@ namespace SonHaftaHoca.Models
 
         [ForeignKey("User")]
         public string UserId { get; set; }
-        public int KategoriId { get; set; }
-
-        public IdentityUser? User { get; set; }
-        public Kategori? Kategori { get; set; }
-
+        public string KategoriAdi { get; set; }
     }
 }

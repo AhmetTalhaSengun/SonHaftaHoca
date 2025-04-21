@@ -9,6 +9,8 @@
 
         List<TEntity> Listele();
 
+       
+
 
     }
 }

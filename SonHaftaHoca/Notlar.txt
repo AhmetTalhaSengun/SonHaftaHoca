@@ -19,6 +19,10 @@ Configurationlara dikkat ediliyor.
 
 Repostory ve abstractlar hariç olana kadardan sonra add-migration yapıldı. 
 
+Bu tür uygulamalarda her zaman rol id ve üye id yi dışarıya göndermek lazım.
 
+Eylem modeline user id sonradan eklendi unutmuştuk
+
+RegisterVM de neye ihtiyacım olduğunu görmek için veri tabanını açtım.
 Öncelik
 1. in the visual accounts. idler int istenmiyorsa ve üye yoksa.
